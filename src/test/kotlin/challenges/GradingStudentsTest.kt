@@ -1,8 +1,7 @@
-import challenges.gradingStudents
-import junit.framework.TestCase.assertEquals
+package challenges
+
 import junit.framework.TestCase.assertTrue
 import org.junit.Test
-import java.util.*
 
 
 class GradingStudentsTest {
